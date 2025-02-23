@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Poppins_22.0.0_google";
+  src: url("../../../fonts/Poppins-Light_22.0.0_google.ttf");
+  font-weight: 300; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins_22.0.0_google";
+  src: url("../../../fonts/Poppins-Medium_22.0.0_google.ttf");
+  font-weight: 500; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins_22.0.0_google";
+  src: url("../../../fonts/Poppins-Regular_22.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins_22.0.0_google";
+  src: url("../../../fonts/Poppins-Semibold_22.0.0_google.ttf");
+  font-weight: 600; 
+  font-display: swap;
+}
