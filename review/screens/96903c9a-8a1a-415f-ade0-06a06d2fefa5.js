@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1740331728099.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1740340996595.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-96903c9a-8a1a-415f-ade0-06a06d2fefa5" class="screen growth-both devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Entertainment"width="1363" height="3030">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/96903c9a-8a1a-415f-ade0-06a06d2fefa5/style-1740331728099.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/96903c9a-8a1a-415f-ade0-06a06d2fefa5/fonts-1740331728099.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/96903c9a-8a1a-415f-ade0-06a06d2fefa5/style-1740340996595.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/96903c9a-8a1a-415f-ade0-06a06d2fefa5/fonts-1740340996595.css" />\
       <div class="freeLayout">\
       <div id="s-Group_5" class="group firer ie-background commentable non-processed" customid="Group 7" datasizewidth="1019.00px" datasizeheight="1044.79px" >\
         <div id="s-Dynamic_panel_7" class="dynamicpanel firer ie-background commentable non-processed" customid="Frame 3" datasizewidth="1220.00px" datasizeheight="283.47px" dataX="70.00" dataY="900.32" >\

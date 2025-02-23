@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1740331728099.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1740340996595.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-c47106a3-d4f1-4318-849a-43842417d38d" class="screen growth-both devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Home"width="1363" height="2418">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/c47106a3-d4f1-4318-849a-43842417d38d/style-1740331728099.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/c47106a3-d4f1-4318-849a-43842417d38d/fonts-1740331728099.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/c47106a3-d4f1-4318-849a-43842417d38d/style-1740340996595.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/c47106a3-d4f1-4318-849a-43842417d38d/fonts-1740340996595.css" />\
       <div class="freeLayout">\
       <div id="s-Path_8" class="path firer commentable non-processed" customid="Path 8"   datasizewidth="1363.00px" datasizeheight="70.66px" dataX="0.00" dataY="0.34"  >\
         <div class="borderLayer">\

@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1740331728099.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1740340996595.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,12 +12,12 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-75ee964a-1ca7-43dc-be7f-d97b4e980ffb" class="screen growth-both devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Lodging"width="1363" height="1968">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/75ee964a-1ca7-43dc-be7f-d97b4e980ffb/style-1740331728099.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/75ee964a-1ca7-43dc-be7f-d97b4e980ffb/fonts-1740331728099.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/75ee964a-1ca7-43dc-be7f-d97b4e980ffb/style-1740340996595.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/75ee964a-1ca7-43dc-be7f-d97b4e980ffb/fonts-1740340996595.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 7" datasizewidth="1019.00px" datasizeheight="1034.00px" >\
-        <div id="s-Dynamic_panel_1" class="dynamicpanel firer ie-background commentable non-processed" customid="Frame 3" datasizewidth="1220.00px" datasizeheight="214.18px" dataX="70.00" dataY="550.00" >\
-          <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="tab"  datasizewidth="1220.00px" datasizeheight="214.18px" >\
+        <div id="s-Dynamic_panel_1" class="dynamicpanel firer ie-background commentable non-processed" customid="Frame 3" datasizewidth="1220.00px" datasizeheight="311.18px" dataX="70.00" dataY="550.00" >\
+          <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="tab"  datasizewidth="1220.00px" datasizeheight="311.18px" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
